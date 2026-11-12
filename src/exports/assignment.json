@@ -1,0 +1,65 @@
+{
+ "mssv": "2A202603161",
+ "ten": "PhamVanHung",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "hung",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000164659.jpg",
+  "000000196283.jpg",
+  "000000314154.jpg",
+  "000000365099.jpg",
+  "000000445187.jpg",
+  "000000220045.jpg",
+  "000000360811.jpg",
+  "000000571665.jpg",
+  "000000043500.jpg",
+  "000000391222.jpg",
+  "000000100510.jpg",
+  "000000542160.jpg"
+ ],
+ "faces": [
+  "face_10579.jpg",
+  "face_204787.jpg",
+  "face_421231.jpg",
+  "face_449454.jpg",
+  "face_505385.jpg",
+  "face_168953.jpg",
+  "face_324513.jpg",
+  "face_562485.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 7,
+   "job_id": 6,
+   "task_name": "persons-PhamVanHung"
+  },
+  "faces": {
+   "task_id": 8,
+   "job_id": 7,
+   "task_name": "faces-PhamVanHung"
+  },
+  "persons-extra": {
+   "task_id": 9,
+   "job_id": 8,
+   "task_name": "persons-extra-PhamVanHung"
+  },
+  "faces-extra": {
+   "task_id": 10,
+   "job_id": 9,
+   "task_name": "faces-extra-PhamVanHung"
+  }
+ },
+ "persons_extra": [
+  "000000005294.jpg",
+  "000000073537.jpg",
+  "000000337458.jpg"
+ ],
+ "faces_extra": [
+  "face_274219.jpg",
+  "face_280788.jpg",
+  "face_317330.jpg",
+  "face_494518.jpg",
+  "face_68290.jpg"
+ ]
+}
